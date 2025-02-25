@@ -1,0 +1,27 @@
+<!-->
+ * Name: Aryan Tuwar
+ * Subject: MAP244
+ * Section: NSC
+ * Student ID: 112137229
+ *
+ * This code is created solely for academic purposes as part
+ * of the MAP244 course. Any resemblance to other works is
+ * purely coincidental, and no copyrighted material has been
+ * used without proper attribution.
+ -->
+<resources>
+    <string name="app_name">designAndIntent</string>
+    <string name="go_to_homepage">Go to Homepage</string>
+    <string name="design_intent"><![CDATA[Design & Intent]]></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="tvThankYou">TextView</string>
+    <string name="thank_you_message">Thanks for registration, %1$s!</string>
+    <string name="go_to_homepage2">Go to Homepage</string>
+</resources>

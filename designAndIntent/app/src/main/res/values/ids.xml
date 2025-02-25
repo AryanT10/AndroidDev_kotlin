@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guidelineEnd" type="id" />
+    <item name="guidelineStart" type="id" />
+    <item name="guidelineTop" type="id" />
+    <item name="guidelineBottom" type="id" />
+</resources>
